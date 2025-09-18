@@ -23,3 +23,7 @@ http://127.0.0.1:8000/capture
 
 http://127.0.0.1:8000/capture?count=15&mock=false
  <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/27f5225b-e1ec-4fdf-8ac2-b65f30ba3189" />
+
+Config Pycharm
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a42db8e3-dc5c-4f71-affb-2aca4d93d0a9" />
